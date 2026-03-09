@@ -3,14 +3,14 @@ Important questions form Maths in Data Science
 
 Applied Statistics Interview Grind
 
-1.What is a vector in mathematics?
+**1.What is a vector in mathematics?**
 	In mathematics, particularly in the context of linear algebra (which forms the backbone of applied 	statistics), a vector is a fundamental object that represents a quantity with both magnitude (size or	length) and direction.Vectors are commonly represented geometrically as arrows: the length of the 	arrow shows the magnitude, and the direction of the arrow shows the direction of the vector.
 	A vector is a Latin word that means carrier. Vectors carry a point A to point B. The length of the line 	between the two points A and B is called the magnitude of the vector and the direction of the 	displacement of point A to point B is called the direction of the vector AB.
 
 				
 In applied statistics, vectors are ubiquitous. For instance, they represent multivariate data (e.g., a row 	or column in a dataset), random vectors in probability distributions, or parameters in regression 	models.
 
-2.What are the different operations that can be performed on vectors?
+**2.What are the different operations that can be performed on vectors?**
 Several operations can be performed on vectors in mathematics, each serving a specific function and 	following distinct rules.
 Addition of Vector /Subtraction : - To add two vectors together, add the value from each component of the first vector to the corresponding component from the second vector, to give the value of that component in the new vector.
 u  =  [u1, u2,  ……….. un]
